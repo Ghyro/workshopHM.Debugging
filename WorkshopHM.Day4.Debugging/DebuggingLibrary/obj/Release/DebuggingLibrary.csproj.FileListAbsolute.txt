@@ -1,0 +1,5 @@
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingLibrary\bin\Release\DebuggingLibrary.dll
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingLibrary\bin\Release\DebuggingLibrary.pdb
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingLibrary\obj\Release\DebuggingLibrary.csproj.CoreCompileInputs.cache
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingLibrary\obj\Release\DebuggingLibrary.dll
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingLibrary\obj\Release\DebuggingLibrary.pdb

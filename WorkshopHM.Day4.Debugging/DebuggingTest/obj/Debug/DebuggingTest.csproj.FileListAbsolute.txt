@@ -1,0 +1,10 @@
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\bin\Debug\DebuggingTest.exe.config
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\bin\Debug\DebuggingTest.exe
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\bin\Debug\DebuggingTest.pdb
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\bin\Debug\DebuggingLibrary.dll
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\bin\Debug\DebuggingLibrary.pdb
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\obj\Debug\DebuggingTest.csprojAssemblyReference.cache
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\obj\Debug\DebuggingTest.csproj.CoreCompileInputs.cache
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\obj\Debug\DebuggingTest.csproj.CopyComplete
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\obj\Debug\DebuggingTest.exe
+D:\epam-lab\workshopHM.Debugging\WorkshopHM.Day4.Debugging\DebuggingTest\obj\Debug\DebuggingTest.pdb
