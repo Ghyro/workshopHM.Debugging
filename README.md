@@ -1,4 +1,4 @@
-# workshopHM.Debugging
+# workshopHW.Debugging
 
 
 ### Task
